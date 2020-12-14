@@ -4,5 +4,10 @@
 			"name": "LeetCode",
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp"
+		}
+	}
 }
