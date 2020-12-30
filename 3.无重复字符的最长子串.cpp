@@ -6,6 +6,7 @@
 
 // @lc code=start
 #include <string>
+#include <iostream>
 using namespace std;
 class Solution {
 public:
@@ -31,7 +32,8 @@ public:
 int main(int argc, char const *argv[])
 {
     Solution a;
-    a.lengthOfLongestSubstring("abcabcbb");
+    cout<<a.lengthOfLongestSubstring("abcabcbb");
+
 
     return 0;
 }
