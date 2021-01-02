@@ -1,3 +1,5 @@
+#include <string>
+using namespace std;
 // @before-stub-for-debug-begin
 
 // @before-stub-for-debug-end
@@ -9,6 +11,7 @@
  */
 
 // @lc code=start
+
 class Solution {
 public:
     bool isPalindrome(string s) {
