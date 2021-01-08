@@ -7,13 +7,15 @@
 // @lc code=start
 
 // * Definition for a binary tree node.
-//   struct TreeNode {
-//       int val;
-//       TreeNode *left;
-//       TreeNode *right;
-//       TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-//   };
- 
+#include <iostream>
+using namespace std; 
+
+   struct TreeNode {
+       int val;
+       TreeNode *left;
+       TreeNode *right;
+       TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+   };
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
@@ -41,3 +43,11 @@ public:
  * 左子树右移，右子树左移
  * 
  * ****/
+int main(void){
+	TreeNode * temp=new TreeNode(20);
+	Solution a;
+	a.isSymmetric(temp);
+	cout<<a.isSymmetric(temp);
+	return 0;
+}
+
