@@ -1,0 +1,422 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BASE_FLAGS	.ycm_extra_conf.py	/^BASE_FLAGS = [$/;"	v
+BASE_FLAGS	剑指Offer/.ycm_extra_conf.py	/^BASE_FLAGS = [$/;"	v
+FindNearest	.ycm_extra_conf.py	/^def FindNearest(path, target, build_folder):$/;"	f
+FindNearest	剑指Offer/.ycm_extra_conf.py	/^def FindNearest(path, target, build_folder):$/;"	f
+FlagsForClangComplete	.ycm_extra_conf.py	/^def FlagsForClangComplete(root):$/;"	f
+FlagsForClangComplete	剑指Offer/.ycm_extra_conf.py	/^def FlagsForClangComplete(root):$/;"	f
+FlagsForCompilationDatabase	.ycm_extra_conf.py	/^def FlagsForCompilationDatabase(root, filename):$/;"	f
+FlagsForCompilationDatabase	剑指Offer/.ycm_extra_conf.py	/^def FlagsForCompilationDatabase(root, filename):$/;"	f
+FlagsForFile	.ycm_extra_conf.py	/^def FlagsForFile(filename):$/;"	f
+FlagsForFile	剑指Offer/.ycm_extra_conf.py	/^def FlagsForFile(filename):$/;"	f
+FlagsForInclude	.ycm_extra_conf.py	/^def FlagsForInclude(root):$/;"	f
+FlagsForInclude	剑指Offer/.ycm_extra_conf.py	/^def FlagsForInclude(root):$/;"	f
+GetCompilationInfoForFile	.ycm_extra_conf.py	/^def GetCompilationInfoForFile(database, filename):$/;"	f
+GetCompilationInfoForFile	剑指Offer/.ycm_extra_conf.py	/^def GetCompilationInfoForFile(database, filename):$/;"	f
+GetNext	28.实现-str-str.cpp	/^        void GetNext(int * next,string T){$/;"	f	class:KMPalgorithm
+GetNext	use/kmp.cpp	/^        void GetNext(int * next,string T){$/;"	f	class:KMPalgorithm
+HEADER_DIRECTORIES	.ycm_extra_conf.py	/^HEADER_DIRECTORIES = [$/;"	v
+HEADER_DIRECTORIES	剑指Offer/.ycm_extra_conf.py	/^HEADER_DIRECTORIES = [$/;"	v
+HEADER_EXTENSIONS	.ycm_extra_conf.py	/^HEADER_EXTENSIONS = [$/;"	v
+HEADER_EXTENSIONS	剑指Offer/.ycm_extra_conf.py	/^HEADER_EXTENSIONS = [$/;"	v
+IsHeaderFile	.ycm_extra_conf.py	/^def IsHeaderFile(filename):$/;"	f
+IsHeaderFile	剑指Offer/.ycm_extra_conf.py	/^def IsHeaderFile(filename):$/;"	f
+KMP	28.实现-str-str.cpp	/^        int KMP(int *next,string S,string T){$/;"	f	class:KMPalgorithm
+KMP	use/kmp.cpp	/^        int KMP(int *next,string S,string T){$/;"	f	class:KMPalgorithm
+KMPalgorithm	28.实现-str-str.cpp	/^class KMPalgorithm{$/;"	c	file:
+KMPalgorithm	use/kmp.cpp	/^class KMPalgorithm{$/;"	c	file:
+ListNode	101.对称二叉树.cpp	/^	struct ListNode{$/;"	s	file:
+ListNode	19.删除链表的倒数第n个节点.cpp	/^      ListNode() : val(0), next(nullptr) {}$/;"	f	struct:ListNode
+ListNode	19.删除链表的倒数第n个节点.cpp	/^      ListNode(int x) : val(x), next(nullptr) {}$/;"	f	struct:ListNode
+ListNode	19.删除链表的倒数第n个节点.cpp	/^      ListNode(int x, ListNode *next) : val(x), next(next) {}$/;"	f	struct:ListNode
+ListNode	19.删除链表的倒数第n个节点.cpp	/^  struct ListNode {$/;"	s	file:
+ListNode	剑指Offer/Offer06-从尾到头打印链表.cpp	/^     ListNode(int x) : val(x), next(NULL) {}$/;"	f	struct:ListNode
+ListNode	剑指Offer/Offer06-从尾到头打印链表.cpp	/^struct ListNode {$/;"	s	file:
+ListNode	剑指Offer/Offer18-删除链表的节点.cpp	/^	ListNode(int x):val(x),next(nullptr){};$/;"	f	struct:ListNode
+ListNode	剑指Offer/Offer18-删除链表的节点.cpp	/^struct ListNode{$/;"	s	file:
+ListNode	剑指Offer/Offer22-链表倒数第k个节点.cpp	/^      ListNode(int x) : val(x), next(NULL) {}$/;"	f	struct:ListNode
+ListNode	剑指Offer/Offer22-链表倒数第k个节点.cpp	/^struct ListNode {$/;"	s	file:
+ListNode	剑指Offer/Offer24-反转链表.cpp	/^	      ListNode(int x) : val(x), next(NULL) {};$/;"	f	struct:ListNode
+ListNode	剑指Offer/Offer24-反转链表.cpp	/^struct ListNode {$/;"	s	file:
+ListNode	剑指Offer/Offer25-合并两个有序的链表.cpp	/^	ListNode(int x):val(x),next(nullptr){};$/;"	f	struct:ListNode
+ListNode	剑指Offer/Offer25-合并两个有序的链表.cpp	/^struct ListNode{$/;"	s	file:
+ListNode	剑指Offer/Offer52-两个链表的第一个公共节点.cpp	/^	ListNode(int x):val(x),next(nullptr){};$/;"	f	struct:ListNode
+ListNode	剑指Offer/Offer52-两个链表的第一个公共节点.cpp	/^struct ListNode{$/;"	s	file:
+MAXLINE	剑指Offer/Server.cpp	/^const int MAXLINE = 80;$/;"	v
+MAXMSG	剑指Offer/Server.cpp	/^const int MAXMSG = 20;$/;"	v
+MAXPTHREAD	剑指Offer/Server.cpp	/^const int MAXPTHREAD =100;$/;"	v
+MOD	剑指Offer/Offer10-II跳台阶.cpp	/^#define MOD /;"	d	file:
+MOD	剑指Offer/Offer10_1斐波那契.cpp	/^#define MOD /;"	d	file:
+MakeRelativePathsInFlagsAbsolute	.ycm_extra_conf.py	/^def MakeRelativePathsInFlagsAbsolute(flags, working_directory):$/;"	f
+MakeRelativePathsInFlagsAbsolute	剑指Offer/.ycm_extra_conf.py	/^def MakeRelativePathsInFlagsAbsolute(flags, working_directory):$/;"	f
+Merge	剑指Offer/MergeSort.cpp	/^void Merge(T arr[], int l, int q, int r){$/;"	f
+MergeSort	剑指Offer/MergeSort.cpp	/^void MergeSort(T arr[], int l, int r){$/;"	f
+MinStack	155.最小栈.cpp	/^    MinStack() {$/;"	f	class:MinStack
+MinStack	155.最小栈.cpp	/^class MinStack {$/;"	c	file:
+MinStack	剑指Offer/Offer30-包含min函数的栈.cpp	/^		MinStack(){$/;"	f	class:MinStack
+MinStack	剑指Offer/Offer30-包含min函数的栈.cpp	/^class MinStack{$/;"	c	file:
+Msg	剑指Offer/Server.cpp	/^queue<string> Msg;    \/*定义消息队列*\/$/;"	v
+MyStack	225.用队列实现栈.cpp	/^    MyStack() {$/;"	f	class:MyStack
+MyStack	225.用队列实现栈.cpp	/^class MyStack {$/;"	c	file:
+Que	107.二叉树的层次遍历-ii.cpp	/^    queue<TreeNode*> Que;$/;"	m	class:Solution	file:
+Read	剑指Offer/Server.cpp	/^const unsigned int Read = 0;$/;"	v
+SERV_PORT	剑指Offer/Server.cpp	/^const int SERV_PORT = 8000;$/;"	v
+SOURCE_DIRECTORIES	.ycm_extra_conf.py	/^SOURCE_DIRECTORIES = [$/;"	v
+SOURCE_DIRECTORIES	剑指Offer/.ycm_extra_conf.py	/^SOURCE_DIRECTORIES = [$/;"	v
+SOURCE_EXTENSIONS	.ycm_extra_conf.py	/^SOURCE_EXTENSIONS = [$/;"	v
+SOURCE_EXTENSIONS	剑指Offer/.ycm_extra_conf.py	/^SOURCE_EXTENSIONS = [$/;"	v
+Solution	101.对称二叉树.cpp	/^class Solution {$/;"	c	file:
+Solution	105.从前序与中序遍历序列构造二叉树.cpp	/^class Solution {$/;"	c	file:
+Solution	107.二叉树的层次遍历-ii.cpp	/^class Solution {$/;"	c	file:
+Solution	11.盛最多水的容器.cpp	/^class Solution {$/;"	c	file:
+Solution	12.整数转罗马数字.cpp	/^class Solution {$/;"	c	file:
+Solution	121.买卖股票的最佳时机.cpp	/^class Solution {$/;"	c	file:
+Solution	122.买卖股票的最佳时机-ii.cpp	/^class Solution {$/;"	c	file:
+Solution	125.验证回文串.cpp	/^class Solution {$/;"	c	file:
+Solution	136.只出现一次的数字.cpp	/^class Solution {$/;"	c	file:
+Solution	141.环形链表.cpp	/^class Solution {$/;"	c	file:
+Solution	15.三数之和.cpp	/^class Solution {$/;"	c	file:
+Solution	16.最接近的三数之和.cpp	/^class Solution {$/;"	c	file:
+Solution	160.相交链表.cpp	/^class Solution {$/;"	c	file:
+Solution	168.excel表列名称.cpp	/^class Solution {$/;"	c	file:
+Solution	169.多数元素.cpp	/^class Solution {$/;"	c	file:
+Solution	17.电话号码的字母组合.cpp	/^class Solution {$/;"	c	file:
+Solution	171.excel表列序号.cpp	/^class Solution {$/;"	c	file:
+Solution	172.阶乘后的零.cpp	/^class Solution {$/;"	c	file:
+Solution	18.四数之和.cpp	/^class Solution {$/;"	c	file:
+Solution	19.删除链表的倒数第n个节点.cpp	/^class Solution {$/;"	c	file:
+Solution	190.颠倒二进制位.cpp	/^class Solution {$/;"	c	file:
+Solution	191.位-1-的个数.cpp	/^class Solution {$/;"	c	file:
+Solution	198.打家劫舍.cpp	/^class Solution {$/;"	c	file:
+Solution	2.两数相加.cpp	/^class Solution {$/;"	c	file:
+Solution	20.有效的括号.cpp	/^class Solution {$/;"	c	file:
+Solution	202.快乐数.cpp	/^class Solution {$/;"	c	file:
+Solution	203.移除链表元素.cpp	/^class Solution {$/;"	c	file:
+Solution	204.计数质数.cpp	/^class Solution {$/;"	c	file:
+Solution	205.同构字符串.cpp	/^class Solution {$/;"	c	file:
+Solution	206.反转链表.cpp	/^class Solution {$/;"	c	file:
+Solution	21.合并两个有序链表.cpp	/^class Solution {$/;"	c	file:
+Solution	217.存在重复元素.cpp	/^class Solution {$/;"	c	file:
+Solution	219.存在重复元素-ii.cpp	/^class Solution {$/;"	c	file:
+Solution	22.括号生成.cpp	/^class Solution {$/;"	c	file:
+Solution	228.汇总区间.cpp	/^class Solution {$/;"	c	file:
+Solution	231.2-的幂.cpp	/^class Solution {$/;"	c	file:
+Solution	24.两两交换链表中的节点.cpp	/^class Solution {$/;"	c	file:
+Solution	26.删除排序数组中的重复项.cpp	/^class Solution {$/;"	c	file:
+Solution	27.移除元素.cpp	/^class Solution {$/;"	c	file:
+Solution	28.实现-str-str.cpp	/^class Solution {$/;"	c	file:
+Solution	29.两数相除.cpp	/^class Solution {$/;"	c	file:
+Solution	3.无重复字符的最长子串.cpp	/^class Solution {$/;"	c	file:
+Solution	31.下一个排列.cpp	/^class Solution {$/;"	c	file:
+Solution	35.搜索插入位置.cpp	/^class Solution {$/;"	c	file:
+Solution	38.外观数列.cpp	/^class Solution {$/;"	c	file:
+Solution	5.最长回文子串.cpp	/^class Solution {$/;"	c	file:
+Solution	53.最大子序和.cpp	/^class Solution {$/;"	c	file:
+Solution	55.跳跃游戏.cpp	/^class Solution {$/;"	c	file:
+Solution	5630.删除子数组的最大得分.cpp	/^class Solution {$/;"	c	file:
+Solution	58.最后一个单词的长度.cpp	/^class Solution {$/;"	c	file:
+Solution	6.z-字形变换.cpp	/^class Solution {$/;"	c	file:
+Solution	66.加一.cpp	/^class Solution {$/;"	c	file:
+Solution	67.二进制求和.cpp	/^class Solution {$/;"	c	file:
+Solution	69.x-的平方根.cpp	/^class Solution {$/;"	c	file:
+Solution	70.爬楼梯.cpp	/^class Solution {$/;"	c	file:
+Solution	8.字符串转换整数-atoi.cpp	/^class Solution {$/;"	c	file:
+Solution	83.删除排序链表中的重复元素.cpp	/^class Solution {$/;"	c	file:
+Solution	88.合并两个有序数组.cpp	/^class Solution {$/;"	c	file:
+Solution	back.cpp	/^class Solution {$/;"	c	file:
+Solution	test.cpp	/^class Solution {$/;"	c	file:
+Solution	剑指Offer/Offer03-数组中重复的数字.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer05-替换空格.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer06-从尾到头打印链表.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer10-II跳台阶.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer10_1斐波那契.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer15-二进制中1的个数.cpp	/^class Solution {$/;"	c	file:
+Solution	剑指Offer/Offer17-打印从1到最大的n位数.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer18-删除链表的节点.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer21-调整数组顺序使奇数位于偶数前面.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer22-链表倒数第k个节点.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer24-反转链表.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer25-合并两个有序的链表.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer27-二叉树的镜像.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer28-对称的二叉树.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer29-顺时针打印矩阵.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer32I-从上到下打印二叉树.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer39-数组中超过一半的数字.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer40-最小的k个数.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer42-连续子数组的最大和.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer50-第一个只出现一次的字符.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer52-两个链表的第一个公共节点.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer53-I-在排序数组中查找数字I.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer53-II缺失的数字.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer55I-二叉树的深度.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer55平衡二叉树.cpp	/^class Solution {$/;"	c	file:
+Solution	剑指Offer/Offer57-和为s的两个数字.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer57II-和为s的正数序列.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer58II-左旋字符串.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer58_1翻转单词顺序.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer59-I滑动窗口的最大值.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer61-扑克牌中的顺子.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer62圆圈中最后的数字.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer65-不用加减乘除做加法.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/Offer68II-最近公共祖先.cpp	/^class Solution{$/;"	c	file:
+Solution	剑指Offer/a.cpp	/^class Solution{$/;"	c	file:
+Solution	跳跃游戏VI.cpp	/^class Solution {$/;"	c	file:
+Solution2	跳跃游戏VI.cpp	/^class Solution2 {$/;"	c	file:
+Stack	20.有效的括号.cpp	/^    stack<char> Stack;$/;"	m	class:Solution	file:
+TreeNode	101.对称二叉树.cpp	/^       TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}$/;"	f	struct:TreeNode
+TreeNode	101.对称二叉树.cpp	/^   struct TreeNode {$/;"	s	file:
+TreeNode	剑指Offer/Offer27-二叉树的镜像.cpp	/^	TreeNode(int x):val(x),left(nullptr),right(nullptr){};$/;"	f	struct:TreeNode
+TreeNode	剑指Offer/Offer27-二叉树的镜像.cpp	/^struct TreeNode{$/;"	s	file:
+TreeNode	剑指Offer/Offer28-对称的二叉树.cpp	/^	TreeNode(int x):val(x),left(nullptr),right(nullptr){};$/;"	f	struct:TreeNode
+TreeNode	剑指Offer/Offer28-对称的二叉树.cpp	/^struct TreeNode {$/;"	s	file:
+TreeNode	剑指Offer/Offer32I-从上到下打印二叉树.cpp	/^	TreeNode(int x):val(x),left(nullptr),right(nullptr){};$/;"	f	struct:TreeNode
+TreeNode	剑指Offer/Offer32I-从上到下打印二叉树.cpp	/^struct TreeNode{$/;"	s	file:
+TreeNode	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^	TreeNode(int x):val(x),left(nullptr),right(nullptr){};$/;"	f	struct:TreeNode
+TreeNode	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^struct TreeNode{$/;"	s	file:
+TreeNode	剑指Offer/Offer55I-二叉树的深度.cpp	/^	TreeNode(int x):val(x),left(nullptr),right(nullptr){};$/;"	f	struct:TreeNode
+TreeNode	剑指Offer/Offer55I-二叉树的深度.cpp	/^struct TreeNode{$/;"	s	file:
+TreeNode	剑指Offer/Offer55平衡二叉树.cpp	/^	TreeNode(int x) :val(x),left(nullptr),right(nullptr){};$/;"	f	struct:TreeNode
+TreeNode	剑指Offer/Offer55平衡二叉树.cpp	/^struct TreeNode {$/;"	s	file:
+TreeNode	剑指Offer/Offer68II-最近公共祖先.cpp	/^	TreeNode(int x):val(x),left(nullptr),right(nullptr){};$/;"	f	struct:TreeNode
+TreeNode	剑指Offer/Offer68II-最近公共祖先.cpp	/^struct TreeNode{$/;"	s	file:
+Write	剑指Offer/Server.cpp	/^const unsigned int Write = 1;$/;"	v
+a	剑指Offer/a.cpp	/^		thread a;$/;"	m	class:Solution	file:
+add	剑指Offer/Offer65-不用加减乘除做加法.cpp	/^		int add(int a,int b){$/;"	f	class:Solution
+addBinary	67.二进制求和.cpp	/^    string addBinary(string a, string b) {$/;"	f	class:Solution
+addTwoNumbers	2.两数相加.cpp	/^    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {$/;"	f	class:Solution
+ans	22.括号生成.cpp	/^    vector <string> ans;$/;"	m	class:Solution	file:
+b	5630.删除子数组的最大得分.cpp	/^    bool b[10005];$/;"	m	class:Solution	file:
+backtracking	17.电话号码的字母组合.cpp	/^    void backtracking(string digits,int pos){$/;"	f	class:Solution
+backtracking	22.括号生成.cpp	/^    void backtracking(int n,int l,int r){$/;"	f	class:Solution
+backtracking	back.cpp	/^bool backtracking(vector<vector<char> >& board,string word,int i,int j,int k){$/;"	f	class:Solution
+backtracking	剑指Offer/Offer57II-和为s的正数序列.cpp	/^		void backtracking(vector<vector<int> >& ans,vector<int> path,int target,int i,int sum){$/;"	f	class:Solution
+buildTree	105.从前序与中序遍历序列构造二叉树.cpp	/^    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {$/;"	f	class:Solution
+calcute	202.快乐数.cpp	/^    int calcute(int n){$/;"	f	class:Solution
+canJump	55.跳跃游戏.cpp	/^    bool canJump(vector<int>& nums) {$/;"	f	class:Solution
+cliaddr	剑指Offer/Server.cpp	/^	struct sockaddr_in cliaddr;$/;"	m	struct:s_info	typeref:struct:s_info::sockaddr_in	file:
+climbStairs	70.爬楼梯.cpp	/^    int climbStairs(int n) {$/;"	f	class:Solution
+connfd	剑指Offer/Server.cpp	/^	int connfd;$/;"	m	struct:s_info	file:
+containsDuplicate	217.存在重复元素.cpp	/^    bool containsDuplicate(vector<int>& nums) {$/;"	f	class:Solution
+containsNearbyDuplicate	219.存在重复元素-ii.cpp	/^    bool containsNearbyDuplicate(vector<int>& nums, int k) {$/;"	f	class:Solution
+convert	6.z-字形变换.cpp	/^    string convert(string s, int numRows) {$/;"	f	class:Solution
+convertToTitle	168.excel表列名称.cpp	/^    string convertToTitle(int n) {$/;"	f	class:Solution
+count	38.外观数列.cpp	/^    string count(string a){$/;"	f	class:Solution
+countAndSay	38.外观数列.cpp	/^    string countAndSay(int n) {$/;"	f	class:Solution
+countPrimes	204.计数质数.cpp	/^    int countPrimes(int n){$/;"	f	class:Solution
+countPrimes2	204.计数质数.cpp	/^    int countPrimes2(int n) {$/;"	f	class:Solution
+ddfs	101.对称二叉树.cpp	/^    bool ddfs(TreeNode*left,TreeNode*right){$/;"	f	class:Solution
+deleteDuplicates	83.删除排序链表中的重复元素.cpp	/^    ListNode* deleteDuplicates(ListNode* head) {$/;"	f	class:Solution
+deleteNode	剑指Offer/Offer18-删除链表的节点.cpp	/^		ListNode* deleteNode(ListNode * head,int val){$/;"	f	class:Solution
+depthread_num	剑指Offer/Server.cpp	/^int depthread_num = 0;$/;"	v
+dfs	剑指Offer/Offer27-二叉树的镜像.cpp	/^		void  dfs(TreeNode * root){$/;"	f	class:Solution
+dfs	剑指Offer/Offer55平衡二叉树.cpp	/^		int dfs(TreeNode* root,bool & ans){$/;"	f	class:Solution
+divide	29.两数相除.cpp	/^    int divide(int dividend, int divisor) {$/;"	f	class:Solution
+do_work	剑指Offer/Server.cpp	/^void* do_work(void* arg)$/;"	f
+empty	225.用队列实现栈.cpp	/^    bool empty() {$/;"	f	class:MyStack
+exchange	剑指Offer/Offer21-调整数组顺序使奇数位于偶数前面.cpp	/^		vector<int> exchange(vector<int>& nums){$/;"	f	class:Solution
+exist	back.cpp	/^bool exist(vector<vector<char> >& board, string word) {$/;"	f	class:Solution
+fib	剑指Offer/Offer10_1斐波那契.cpp	/^		int fib(int n){$/;"	f	class:Solution
+findContinuousSequence	剑指Offer/Offer57II-和为s的正数序列.cpp	/^		vector<vector<int> > findContinuousSequence(int target){$/;"	f	class:Solution
+findRepeatNumber	剑指Offer/Offer03-数组中重复的数字.cpp	/^		int findRepeatNumber(vector<int>& nums){$/;"	f	class:Solution
+firstUniqChar	剑指Offer/Offer50-第一个只出现一次的字符.cpp	/^		char firstUniqChar(string s){$/;"	f	class:Solution
+fnmatch	.ycm_extra_conf.py	/^import fnmatch$/;"	i
+fnmatch	剑指Offer/.ycm_extra_conf.py	/^import fnmatch$/;"	i
+fourSum	18.四数之和.cpp	/^    vector<vector<int> > fourSum(vector<int>& nums, int target) {$/;"	f	class:Solution
+generateParenthesis	22.括号生成.cpp	/^    vector<string> generateParenthesis(int n) {$/;"	f	class:Solution
+getIntersectionNode	160.相交链表.cpp	/^    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {$/;"	f	class:Solution
+getIntersectionNode	剑指Offer/Offer52-两个链表的第一个公共节点.cpp	/^		ListNode* getIntersectionNode(ListNode* headA,ListNode * headB){$/;"	f	class:Solution
+getKthFromEnd	剑指Offer/Offer22-链表倒数第k个节点.cpp	/^		ListNode *getKthFromEnd(ListNode * head,int k){$/;"	f	class:Solution
+getLeastNumbers	剑指Offer/Offer40-最小的k个数.cpp	/^		vector<int> getLeastNumbers(vector<int>& arr,int k){$/;"	f	class:Solution
+getMin	155.最小栈.cpp	/^    int getMin() {$/;"	f	class:MinStack
+hammingWeight	191.位-1-的个数.cpp	/^    int hammingWeight(uint32_t n) {$/;"	f	class:Solution
+hammingWeight	剑指Offer/Offer15-二进制中1的个数.cpp	/^    int hammingWeight(uint32_t n) {$/;"	f	class:Solution
+hasCycle	141.环形链表.cpp	/^    bool hasCycle(ListNode *head) {$/;"	f	class:Solution
+hello	剑指Offer/ThreadTest.cpp	/^void hello(){$/;"	f
+index	105.从前序与中序遍历序列构造二叉树.cpp	/^    unordered_map <int,int> index;$/;"	m	class:Solution	file:
+intToRoman	12.整数转罗马数字.cpp	/^    string intToRoman(int num) {$/;"	f	class:Solution
+isBalanced	剑指Offer/Offer55平衡二叉树.cpp	/^		bool isBalanced(TreeNode* root){$/;"	f	class:Solution
+isHappy	202.快乐数.cpp	/^    bool isHappy(int n) {$/;"	f	class:Solution
+isIsomorphic	205.同构字符串.cpp	/^    bool isIsomorphic(string s, string t) {$/;"	f	class:Solution
+isPalindrome	125.验证回文串.cpp	/^    bool isPalindrome(string s) {$/;"	f	class:Solution
+isPowerOfTwo	231.2-的幂.cpp	/^    bool isPowerOfTwo(int n) {$/;"	f	class:Solution
+isPrime	204.计数质数.cpp	/^    bool isPrime(int n){$/;"	f	class:Solution
+isStraight	剑指Offer/Offer61-扑克牌中的顺子.cpp	/^	bool isStraight(vector<int> & nums){$/;"	f	class:Solution
+isSymmetric	101.对称二叉树.cpp	/^    bool isSymmetric(TreeNode* root) {$/;"	f	class:Solution
+isSymmetric	剑指Offer/Offer28-对称的二叉树.cpp	/^		bool isSymmetric(TreeNode* root){$/;"	f	class:Solution
+isValid	20.有效的括号.cpp	/^    bool isValid(string s) {$/;"	f	class:Solution
+kthLargest	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^		int kthLargest(TreeNode* root,int k){$/;"	f	class:Solution
+lastRemaining	剑指Offer/Offer62圆圈中最后的数字.cpp	/^		int lastRemaining(int n,int m){$/;"	f	class:Solution
+left	101.对称二叉树.cpp	/^       TreeNode *left;$/;"	m	struct:TreeNode	file:
+left	剑指Offer/Offer27-二叉树的镜像.cpp	/^	TreeNode* left;$/;"	m	struct:TreeNode	file:
+left	剑指Offer/Offer28-对称的二叉树.cpp	/^	TreeNode * left;$/;"	m	struct:TreeNode	file:
+left	剑指Offer/Offer32I-从上到下打印二叉树.cpp	/^	TreeNode * left;$/;"	m	struct:TreeNode	file:
+left	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^	TreeNode * left;$/;"	m	struct:TreeNode	file:
+left	剑指Offer/Offer55I-二叉树的深度.cpp	/^	TreeNode* left;$/;"	m	struct:TreeNode	file:
+left	剑指Offer/Offer55平衡二叉树.cpp	/^	TreeNode * left;$/;"	m	struct:TreeNode	file:
+left	剑指Offer/Offer68II-最近公共祖先.cpp	/^	TreeNode * left;$/;"	m	struct:TreeNode	file:
+lengthOfLastWord	58.最后一个单词的长度.cpp	/^    int lengthOfLastWord(string s) {$/;"	f	class:Solution
+lengthOfLongestSubstring	3.无重复字符的最长子串.cpp	/^    int lengthOfLongestSubstring(string s) {$/;"	f	class:Solution
+letterCombinations	17.电话号码的字母组合.cpp	/^    vector<string> letterCombinations(string digits) {$/;"	f	class:Solution
+levelOrder	剑指Offer/Offer32I-从上到下打印二叉树.cpp	/^		   vector<vector<int>> levelOrder(TreeNode* root) {$/;"	f	class:Solution
+levelOrderBottom	107.二叉树的层次遍历-ii.cpp	/^    vector<vector<int>> levelOrderBottom(TreeNode* root) {$/;"	f	class:Solution
+logging	.ycm_extra_conf.py	/^import logging$/;"	i
+logging	剑指Offer/.ycm_extra_conf.py	/^import logging$/;"	i
+longestPalindrome	5.最长回文子串.cpp	/^    string longestPalindrome(string s) {$/;"	f	class:Solution
+lowestCommonAncestor	剑指Offer/Offer68II-最近公共祖先.cpp	/^	TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {$/;"	f	class:Solution	file:
+main	101.对称二叉树.cpp	/^int main(void){$/;"	f
+main	16.最接近的三数之和.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	168.excel表列名称.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	18.四数之和.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	202.快乐数.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	3.无重复字符的最长子串.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	38.外观数列.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	6.z-字形变换.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	67.二进制求和.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	back.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	hello.cpp	/^int main()$/;"	f
+main	test.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	use/kmp.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	剑指Offer/Client.cpp	/^int main()$/;"	f
+main	剑指Offer/MergeSort.cpp	/^int main(){$/;"	f
+main	剑指Offer/Offer05-替换空格.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer10-II跳台阶.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer10_1斐波那契.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer15-二进制中1的个数.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer30-包含min函数的栈.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer53-I-在排序数组中查找数字I.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer55平衡二叉树.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer57II-和为s的正数序列.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer58II-左旋字符串.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer58_1翻转单词顺序.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer59-I滑动窗口的最大值.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer62圆圈中最后的数字.cpp	/^int main()$/;"	f
+main	剑指Offer/Offer65-不用加减乘除做加法.cpp	/^int main()$/;"	f
+main	剑指Offer/Server.cpp	/^int main()$/;"	f
+main	剑指Offer/ThreadTest.cpp	/^int main()$/;"	f
+majorityElement	169.多数元素.cpp	/^    int majorityElement(vector<int>& nums) {$/;"	f	class:Solution
+majorityElement	剑指Offer/Offer39-数组中超过一半的数字.cpp	/^		int majorityElement(vector<int>& nums){$/;"	f	class:Solution
+map	202.快乐数.cpp	/^    unordered_set<int> map;$/;"	m	class:Solution	file:
+maxArea	11.盛最多水的容器.cpp	/^    int maxArea(vector<int>& height) {$/;"	f	class:Solution
+maxDepth	剑指Offer/Offer55I-二叉树的深度.cpp	/^		int maxDepth(TreeNode* root){$/;"	f	class:Solution
+maxProfit	121.买卖股票的最佳时机.cpp	/^    int maxProfit(vector<int>& prices) {$/;"	f	class:Solution
+maxProfit	122.买卖股票的最佳时机-ii.cpp	/^    int maxProfit(vector<int>& prices) {   $/;"	f	class:Solution
+maxResult	test.cpp	/^    int maxResult(vector<int>& nums, int k) {$/;"	f	class:Solution
+maxResult	跳跃游戏VI.cpp	/^    int maxResult(vector<int>& nums, int k) {$/;"	f	class:Solution
+maxResult	跳跃游戏VI.cpp	/^    int maxResult(vector<int>& nums, int k) {$/;"	f	class:Solution2
+maxSlidingWindow	剑指Offer/Offer59-I滑动窗口的最大值.cpp	/^		vector<int> maxSlidingWindow(vector<int> &nums,int k){$/;"	f	class:Solution
+maxSubArray	53.最大子序和.cpp	/^    int maxSubArray(vector<int>& nums) {$/;"	f	class:Solution
+maxSubArray	剑指Offer/Offer42-连续子数组的最大和.cpp	/^		int maxSubArray(vector<int> & nums){$/;"	f	class:Solution
+maximumUniqueSubarray	5630.删除子数组的最大得分.cpp	/^    int maximumUniqueSubarray(vector<int>& nums) {$/;"	f	class:Solution
+merge	88.合并两个有序数组.cpp	/^    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {$/;"	f	class:Solution
+mergeTwoLists	21.合并两个有序链表.cpp	/^    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {$/;"	f	class:Solution
+mergeTwoLists	剑指Offer/Offer25-合并两个有序的链表.cpp	/^		ListNode* mergeTwoLists(ListNode* l1, ListNode* l2){$/;"	f	class:Solution
+miOrderDfs	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^		void  miOrderDfs(TreeNode *root,int k,int& i,int& ans){$/;"	f	class:Solution
+min	155.最小栈.cpp	/^    vector<int> min;$/;"	m	class:MinStack	file:
+min	剑指Offer/Offer30-包含min函数的栈.cpp	/^		int min(){$/;"	f	class:MinStack
+minque	剑指Offer/Offer30-包含min函数的栈.cpp	/^		deque<int> minque;$/;"	m	class:MinStack	file:
+mirrorTree	剑指Offer/Offer27-二叉树的镜像.cpp	/^		TreeNode * mirrorTree(TreeNode * root){$/;"	f	class:Solution
+missingNumber	剑指Offer/Offer53-II缺失的数字.cpp	/^		int missingNumber(vector<int>&nums){$/;"	f	class:Solution
+myAtoi	8.字符串转换整数-atoi.cpp	/^    int myAtoi(string s) {$/;"	f	class:Solution
+myIsSymmetric	剑指Offer/Offer28-对称的二叉树.cpp	/^		bool myIsSymmetric(TreeNode* left,TreeNode* right){$/;"	f	class:Solution
+mySqrt	69.x-的平方根.cpp	/^    int mySqrt(int x) {$/;"	f	class:Solution
+newWays	剑指Offer/Offer10-II跳台阶.cpp	/^		int newWays(int n ){$/;"	f	class:Solution
+next	19.删除链表的倒数第n个节点.cpp	/^      ListNode *next;$/;"	m	struct:ListNode	file:
+next	剑指Offer/Offer06-从尾到头打印链表.cpp	/^     ListNode *next;$/;"	m	struct:ListNode	file:
+next	剑指Offer/Offer18-删除链表的节点.cpp	/^	ListNode* next;$/;"	m	struct:ListNode	file:
+next	剑指Offer/Offer22-链表倒数第k个节点.cpp	/^      ListNode *next;$/;"	m	struct:ListNode	file:
+next	剑指Offer/Offer24-反转链表.cpp	/^		  ListNode *next;$/;"	m	struct:ListNode	file:
+next	剑指Offer/Offer25-合并两个有序的链表.cpp	/^	ListNode* next;$/;"	m	struct:ListNode	file:
+next	剑指Offer/Offer52-两个链表的第一个公共节点.cpp	/^	ListNode * next;$/;"	m	struct:ListNode	file:
+nextPermutation	31.下一个排列.cpp	/^    void nextPermutation(vector<int>& nums) {$/;"	f	class:Solution
+os	.ycm_extra_conf.py	/^import os$/;"	i
+os	.ycm_extra_conf.py	/^import os.path$/;"	i
+os	剑指Offer/.ycm_extra_conf.py	/^import os$/;"	i
+os	剑指Offer/.ycm_extra_conf.py	/^import os.path$/;"	i
+path	.ycm_extra_conf.py	/^import os.path$/;"	i
+path	剑指Offer/.ycm_extra_conf.py	/^import os.path$/;"	i
+pause_thread	剑指Offer/ThreadTest.cpp	/^void pause_thread(int n){$/;"	f
+plusOne	66.加一.cpp	/^    vector<int> plusOne(vector<int>& digits) {$/;"	f	class:Solution
+pop	155.最小栈.cpp	/^    void pop() {$/;"	f	class:MinStack
+pop	225.用队列实现栈.cpp	/^    int pop() {$/;"	f	class:MyStack
+pop	剑指Offer/Offer30-包含min函数的栈.cpp	/^		void pop(){$/;"	f	class:MinStack
+printNumbers	剑指Offer/Offer17-打印从1到最大的n位数.cpp	/^		vector<int> printNumbers(int n){$/;"	f	class:Solution
+pthread_num	剑指Offer/Server.cpp	/^int pthread_num = 0;                     $/;"	v
+push	155.最小栈.cpp	/^    void push(int x) {$/;"	f	class:MinStack
+push	225.用队列实现栈.cpp	/^    void push(int x) {$/;"	f	class:MyStack
+push	剑指Offer/Offer30-包含min函数的栈.cpp	/^		void push(int x){$/;"	f	class:MinStack
+queue	225.用队列实现栈.cpp	/^    deque<int> queue;$/;"	m	class:MyStack	file:
+quickSort	剑指Offer/Offer40-最小的k个数.cpp	/^		vector<int>  quickSort(vector<int>&arr,int l,int r,int k){$/;"	f	class:Solution
+re	.ycm_extra_conf.py	/^import re$/;"	i
+re	剑指Offer/.ycm_extra_conf.py	/^import re$/;"	i
+rec_msg	剑指Offer/Server.cpp	/^void* rec_msg(void* arg)$/;"	f
+recursion	剑指Offer/Offer24-反转链表.cpp	/^		ListNode* recursion(ListNode * head){$/;"	f	class:Solution
+removeDuplicates	26.删除排序数组中的重复项.cpp	/^    int removeDuplicates(vector<int>& nums) {$/;"	f	class:Solution
+removeElement	27.移除元素.cpp	/^    int removeElement(vector<int>& nums, int val) {$/;"	f	class:Solution
+removeElements	203.移除链表元素.cpp	/^    ListNode* removeElements(ListNode* head, int val) {$/;"	f	class:Solution
+removeNthFromEnd	19.删除链表的倒数第n个节点.cpp	/^    ListNode* removeNthFromEnd(ListNode* head, int n) {$/;"	f	class:Solution
+replaceSpace	剑指Offer/Offer05-替换空格.cpp	/^		string replaceSpace(string s){$/;"	f	class:Solution
+res	107.二叉树的层次遍历-ii.cpp	/^    vector<vector<int>> res;$/;"	m	class:Solution	file:
+res	17.电话号码的字母组合.cpp	/^    vector<string> res;$/;"	m	class:Solution	file:
+reverseBits	190.颠倒二进制位.cpp	/^    uint32_t reverseBits(uint32_t n) {$/;"	f	class:Solution
+reverseLeftWords	剑指Offer/Offer58II-左旋字符串.cpp	/^		string reverseLeftWords(string s,int n){$/;"	f	class:Solution
+reverseList	206.反转链表.cpp	/^    ListNode* reverseList(ListNode* head) {$/;"	f	class:Solution
+reverseList	剑指Offer/Offer24-反转链表.cpp	/^		ListNode* reverseList(ListNode* head){$/;"	f	class:Solution
+reversePrint	剑指Offer/Offer06-从尾到头打印链表.cpp	/^		vector<int> reversePrint(ListNode* head){$/;"	f	class:Solution
+reverseWords	剑指Offer/Offer58_1翻转单词顺序.cpp	/^		string reverseWords(string s){$/;"	f	class:Solution
+right	101.对称二叉树.cpp	/^       TreeNode *right;$/;"	m	struct:TreeNode	file:
+right	剑指Offer/Offer27-二叉树的镜像.cpp	/^	TreeNode* right;$/;"	m	struct:TreeNode	file:
+right	剑指Offer/Offer28-对称的二叉树.cpp	/^	TreeNode * right;$/;"	m	struct:TreeNode	file:
+right	剑指Offer/Offer32I-从上到下打印二叉树.cpp	/^	TreeNode * right;$/;"	m	struct:TreeNode	file:
+right	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^	TreeNode * right;$/;"	m	struct:TreeNode	file:
+right	剑指Offer/Offer55I-二叉树的深度.cpp	/^	TreeNode* right;$/;"	m	struct:TreeNode	file:
+right	剑指Offer/Offer55平衡二叉树.cpp	/^	TreeNode * right;$/;"	m	struct:TreeNode	file:
+right	剑指Offer/Offer68II-最近公共祖先.cpp	/^	TreeNode * right;$/;"	m	struct:TreeNode	file:
+rob	198.打家劫舍.cpp	/^    int rob(vector<int>& nums) {$/;"	f	class:Solution
+s	5630.删除子数组的最大得分.cpp	/^    int s[100005];$/;"	m	class:Solution	file:
+s_info	剑指Offer/Server.cpp	/^struct s_info                                       \/*客户端套接字结构体*\/$/;"	s	file:
+search	剑指Offer/Offer53-I-在排序数组中查找数字I.cpp	/^		int search(vector<int>& nums,int target){$/;"	f	class:Solution
+searchInsert	35.搜索插入位置.cpp	/^    int searchInsert(vector<int>& nums, int target) {$/;"	f	class:Solution
+singleNumber	136.只出现一次的数字.cpp	/^    int singleNumber(vector<int>& nums) {$/;"	f	class:Solution
+solidWindows	剑指Offer/Offer57II-和为s的正数序列.cpp	/^		void solidWindows(vector<vector<int> >&ans,int target){$/;"	f	class:Solution
+spiralOrder	剑指Offer/Offer29-顺时针打印矩阵.cpp	/^		vector<int> spiralOrder(vector<vector<int>>& matrix) {$/;"	f	class:Solution
+st	剑指Offer/Offer30-包含min函数的栈.cpp	/^		int st[20000];$/;"	m	class:MinStack	file:
+stack	155.最小栈.cpp	/^    vector<int> stack;$/;"	m	class:MinStack	file:
+strStr	28.实现-str-str.cpp	/^    int strStr(string haystack, string needle) {$/;"	f	class:Solution
+summaryRanges	228.汇总区间.cpp	/^    vector<string> summaryRanges(vector<int>& nums) {$/;"	f	class:Solution
+swapPairs	24.两两交换链表中的节点.cpp	/^    ListNode* swapPairs(ListNode* head) {$/;"	f	class:Solution
+temp	17.电话号码的字母组合.cpp	/^    string temp;$/;"	m	class:Solution	file:
+temp	22.括号生成.cpp	/^    string temp;$/;"	m	class:Solution	file:
+threeSum	15.三数之和.cpp	/^    vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f	class:Solution
+threeSumClosest	16.最接近的三数之和.cpp	/^    int threeSumClosest(vector<int>& nums, int target) {$/;"	f	class:Solution
+titleToNumber	171.excel表列序号.cpp	/^    int titleToNumber(string s) {$/;"	f	class:Solution
+top	155.最小栈.cpp	/^    int top() {$/;"	f	class:MinStack
+top	225.用队列实现栈.cpp	/^    int top() {$/;"	f	class:MyStack
+top	剑指Offer/Offer30-包含min函数的栈.cpp	/^		int top(){$/;"	f	class:MinStack
+top_point	155.最小栈.cpp	/^    int top_point=-1;$/;"	m	class:MinStack	file:
+top_val	225.用队列实现栈.cpp	/^    int top_val;$/;"	m	class:MyStack	file:
+topptr	剑指Offer/Offer30-包含min函数的栈.cpp	/^		int topptr=-1;$/;"	m	class:MinStack	file:
+trailingZeroes	172.阶乘后的零.cpp	/^    int trailingZeroes(int n) {$/;"	f	class:Solution
+twoSum	剑指Offer/Offer57-和为s的两个数字.cpp	/^		vector<int> twoSum(vector<int>&nums,int target){$/;"	f	class:Solution
+val	101.对称二叉树.cpp	/^       int val;$/;"	m	struct:TreeNode	file:
+val	19.删除链表的倒数第n个节点.cpp	/^      int val;$/;"	m	struct:ListNode	file:
+val	剑指Offer/Offer06-从尾到头打印链表.cpp	/^     int val;$/;"	m	struct:ListNode	file:
+val	剑指Offer/Offer18-删除链表的节点.cpp	/^	int val;$/;"	m	struct:ListNode	file:
+val	剑指Offer/Offer22-链表倒数第k个节点.cpp	/^      int val;$/;"	m	struct:ListNode	file:
+val	剑指Offer/Offer24-反转链表.cpp	/^	      int val;$/;"	m	struct:ListNode	file:
+val	剑指Offer/Offer25-合并两个有序的链表.cpp	/^	int val;$/;"	m	struct:ListNode	file:
+val	剑指Offer/Offer27-二叉树的镜像.cpp	/^	int val;$/;"	m	struct:TreeNode	file:
+val	剑指Offer/Offer28-对称的二叉树.cpp	/^	int val;$/;"	m	struct:TreeNode	file:
+val	剑指Offer/Offer32I-从上到下打印二叉树.cpp	/^	int val;$/;"	m	struct:TreeNode	file:
+val	剑指Offer/Offer52-两个链表的第一个公共节点.cpp	/^	int val;$/;"	m	struct:ListNode	file:
+val	剑指Offer/Offer54-二叉搜索树的第k大节点.cpp	/^	int val;$/;"	m	struct:TreeNode	file:
+val	剑指Offer/Offer55I-二叉树的深度.cpp	/^	int val;$/;"	m	struct:TreeNode	file:
+val	剑指Offer/Offer55平衡二叉树.cpp	/^	int val;$/;"	m	struct:TreeNode	file:
+val	剑指Offer/Offer68II-最近公共祖先.cpp	/^	int val;$/;"	m	struct:TreeNode	file:
+ycm_core	.ycm_extra_conf.py	/^import ycm_core$/;"	i
+ycm_core	剑指Offer/.ycm_extra_conf.py	/^import ycm_core$/;"	i

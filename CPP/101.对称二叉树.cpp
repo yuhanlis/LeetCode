@@ -10,6 +10,9 @@
 #include <iostream>
 using namespace std; 
 
+	struct ListNode{
+
+	};
    struct TreeNode {
        int val;
        TreeNode *left;
