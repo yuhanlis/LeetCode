@@ -54,3 +54,19 @@ int main(void){
 	return 0;
 }
 
+
+
+
+int main(){
+	
+}
+
+
+
+#include <iostream>
+#include <vector>
+using namespace std;
+class Solution{
+	public:
+		
+};
